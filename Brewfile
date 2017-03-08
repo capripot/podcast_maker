@@ -1,0 +1,2 @@
+brew 'mplayer'
+brew 'lame'
